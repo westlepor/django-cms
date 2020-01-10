@@ -4,7 +4,7 @@
 Club Management System (CMS) is django-based web-app which lays framework for the amfoss website, the amfoss webapp, and the amfoss app. 
 
 
-## :minidisc: [Installation Instructions](https://github.com/amfoss/cms/wiki/Installation)
+## [Installation Instructions](https://github.com/amfoss/cms/wiki/Installation)
 The portal is primarily a django based application, and to set it up we require to have 
 python environment with django and other project dependencies installed. Though one can
 work with the project without an virtual environment,  it is recommended to use one so 
@@ -39,9 +39,9 @@ From now when you start your work, run ``source bin/activate`` inside the projec
 *Make sure you pull new changes from remote regularly.*
 
 
-## :rocket: Data Models
+## Data Models
 
-### :tada: Activities
+### Activities
 The activity app tracks the activities of the club members.
 
 1. **Certificates** - carries certificates recieved by club members, also allows to upload them as attachments.
@@ -52,7 +52,7 @@ The activity app tracks the activities of the club members.
 6. **Publications** - records publications made by club members
 7. **Talks** - records talks given by club members
 
-### :girl: Members
+### Members
 The members app manages the profile and data of the club members
 
 1. **Groups** - manages groups inside the club
@@ -62,25 +62,25 @@ The members app manages the profile and data of the club members
 5. **Responsibilities** - manages the various responsibilities held by a group of members
 6. **Teams** - manages the various internal teams inside the club
 
-### :incoming_envelope: Status
+### Status
 The status app manages the reporting system in the club
  
 1. **Log** - holds status updates posted by members, under different threads, for various subjects. 
 2. **Thread** - manages status update threads
 
-## :dizzy: API
+## API
 
 The amFOSS CMS ships with GraphQL-based APIs. To help developers, GraphiQL, a tabbed interface (playground) for editing and testing our GraphQL queries/mutations, also has been furnished .
 
 Documentation on the supported APIs has been provided in the [wiki page](https://github.com/amfoss/cms/wiki/APIs).
 
-## :satellite: Integrations
+## Integrations
 
 1. **Attendance Module** - the amFOSS attendance module is a raspberry-pi which live records the attendance of club members when they are in the FOSSLab. The AmFOSS CMS fetches attendance details from it and logs it.
 2. **Telegram Bot** - the amFOSS Telegram Bot is the bot assistant of the amFOSS Telegram group. The AmFOSS CMS triggers the bot to send notifications, statistics etc. to the group.
 4. **GitHub** - Integrates with GitHub to actively track the FOSS contributions made by club members
 
-## :wrench: Tech Stack
+## Tech Stack
 
 * **Language:**  Python 3.7
 * **Framework:** Django 2.2
