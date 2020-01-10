@@ -1,18 +1,5 @@
 
 ![amfoss-cms-cover](https://user-images.githubusercontent.com/21276922/51844359-12628580-233b-11e9-891a-d4d826bd1d6e.png)
-# CMS
-[![Watchers][watchers-badge]][watchers]
-[![Star Gazers][stars-badge]][stargazers]
-[![Forks][forks-badge]][forks]
-
-[![Travis CI][build-badge]][build]
-![Version 0.5](https://img.shields.io/badge/Version-0.5_(Beta)-green.svg) 
-[![GNU][license-badge]][license]
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/amfoss/cms.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/amfoss/cms/alerts/) [![Join the chat at https://gitter.im/amfoss/cms](https://badges.gitter.im/amfoss/cms.svg)](https://gitter.im/amfoss/cms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Open Issues][issues-badge]][issues]
-[![PRs][pr-badge]][prs]
-[![Contributors][contributors-badge]][contributors]
-
 
 Club Management System (CMS) is django-based web-app which lays framework for the amfoss website, the amfoss webapp, and the amfoss app. 
 
