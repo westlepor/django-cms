@@ -99,18 +99,6 @@ Documentation on the supported APIs has been provided in the [wiki page](https:/
 * **Framework:** Django 2.2
 * **API:** GraphQL (Graphene + JWT)
 
-## :gem: Contributors
-Developed with :hearts: by the amFOSS WebTeam from 2018.
-
-1. [Ashwin S Shenoy](https://github.com/aswinshenoy) - Core Developer, Maintainer
-
-### How to Contribute?
-1. Fork the repository, clone it locally and run it following the installation instruction above.
-2. Find an issue or feature to work on, and put up an issue.
-3. Work on the patch or feature, test it and send a pull request referencing the issue.
-
-## :black_nib: License
-This repository is licensed under  GNU General Public License V3. Though it was tailor-made for amFOSS, you are welcome to adapt it, make it yours. Just make sure that you credit us too.
 
 [build-badge]:https://api.travis-ci.org/amfoss/cms.svg?branch=master
 [build]:https://travis-ci.org/amfoss/cms
